@@ -23,11 +23,5 @@ sudo chmod +x erpnext_install.sh
 source erpnext_install.sh
 ```
 # Compatibility
-
 Ubuntu 22.04 LTS,
 Ubuntu 20.04 LTS
-
-Debian 10 (Buster),
-Debian 11 (Bulls Eye)
-
-Others coming soon!
